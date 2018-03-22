@@ -1,0 +1,11 @@
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\bin\Debug\WinFormsBindingExample.exe.config
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\bin\Debug\WinFormsBindingExample.exe
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\bin\Debug\WinFormsBindingExample.pdb
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.Properties.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.csproj.GenerateResource.cache
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.exe
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.pdb
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.Views.ExampleView.resources
+d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.Example.resources

@@ -1,0 +1,12 @@
+D:\Desktop\hhhh\WinFormsBindingExample\bin\Release\WinFormsBindingExample.exe.config
+D:\Desktop\hhhh\WinFormsBindingExample\bin\Release\WinFormsBindingExample.exe
+D:\Desktop\hhhh\WinFormsBindingExample\bin\Release\WinFormsBindingExample.pdb
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Release\WinFormsBindingExample.csprojResolveAssemblyReference.cache
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Release\WinFormsBindingExample.Example.resources
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Release\WinFormsBindingExample.Properties.Resources.resources
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Release\WinFormsBindingExample.Views.ExampleView.resources
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Release\WinFormsBindingExample.Views.OtherView.resources
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Release\WinFormsBindingExample.csproj.GenerateResource.cache
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Release\WinFormsBindingExample.csproj.CoreCompileInputs.cache
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Release\WinFormsBindingExample.exe
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Release\WinFormsBindingExample.pdb

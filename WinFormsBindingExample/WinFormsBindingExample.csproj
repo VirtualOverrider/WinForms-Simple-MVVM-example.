@@ -45,13 +45,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractDescriptionProvider.cs" />
+    <Compile Include="Example.Designer.cs">
+      <DependentUpon>Example.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\IView.cs" />
+    <Compile Include="Interfaces\IViewModel.cs" />
     <Compile Include="Models\ExampleViewModel.cs" />
     <Compile Include="Example.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MyForm.Designer.cs">
-      <DependentUpon>Example.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Models\OtherViewModel.cs" />
+    <Compile Include="Models\ViewModelBase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Views\ExampleView.cs">
@@ -60,7 +65,16 @@
     <Compile Include="Views\ExampleView.Designer.cs">
       <DependentUpon>ExampleView.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="MyForm.resx">
+    <Compile Include="Views\OtherView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\OtherView.Designer.cs">
+      <DependentUpon>OtherView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ViewBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <EmbeddedResource Include="Example.resx">
       <DependentUpon>Example.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -74,6 +88,9 @@
     </Compile>
     <EmbeddedResource Include="Views\ExampleView.resx">
       <DependentUpon>ExampleView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\OtherView.resx">
+      <DependentUpon>OtherView.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

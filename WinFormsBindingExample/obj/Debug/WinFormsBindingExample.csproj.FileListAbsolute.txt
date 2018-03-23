@@ -9,3 +9,15 @@ d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingE
 d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.pdb
 d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.Views.ExampleView.resources
 d:\Documents\Visual Studio 2017\Projects\WinFormsBindingExample\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.Example.resources
+D:\Desktop\hhhh\WinFormsBindingExample\bin\Debug\WinFormsBindingExample.exe.config
+D:\Desktop\hhhh\WinFormsBindingExample\bin\Debug\WinFormsBindingExample.exe
+D:\Desktop\hhhh\WinFormsBindingExample\bin\Debug\WinFormsBindingExample.pdb
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.Example.resources
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.Properties.Resources.resources
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.Views.ExampleView.resources
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.Views.OtherView.resources
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.csproj.GenerateResource.cache
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.csproj.CoreCompileInputs.cache
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.exe
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.pdb
+D:\Desktop\hhhh\WinFormsBindingExample\obj\Debug\WinFormsBindingExample.csprojResolveAssemblyReference.cache

@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Drawing;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,18 +11,16 @@ using WinFormsBindingExample.Models;
 
 namespace WinFormsBindingExample.Views
 {
-    public sealed partial class ExampleView : ViewBase
+    public sealed partial class OtherView : ViewBase
     {
-        #region Private fields
-        private ExampleViewModel _model;                // Local reference to the Model this View will use for Binding operations.
+        #region Private Fields
+        private OtherViewModel _model;                // Local reference to the Model this View will use for Binding operations.
         #endregion
 
-        #region Ctor
-        /// <summary>
-        /// Construct our ExampleView and use Dependancy Injection to use a passed Model.
-        /// </summary>
-        /// <param name="model">ExampleViewModel to use for Binding</param>
-        public ExampleView(ExampleViewModel model = null)
+        #region Public Properties
+        #endregion
+
+        public OtherView(OtherViewModel model = null)
         {
             // Check if a ViewModel was passed to the ctor
             if (model != null)
@@ -32,16 +32,15 @@ namespace WinFormsBindingExample.Views
             else
             {
                 // Create a new instance of the ViewModel for this specific View, as one was not provided to the ctor
-                _model = new ExampleViewModel();
+                _model = new OtherViewModel();
             }
 
             InitializeComponent();
 
-
             // Bind the controls for this View to their Model's properties.
             PerformBinding();
         }
-        #endregion
+
 
         /// <summary>
         /// Sets up binding for the tbName and lblName controls used in this ExampleView.
@@ -49,8 +48,7 @@ namespace WinFormsBindingExample.Views
         /// </summary>
         public sealed override void PerformBinding()
         {
-            tbName.DataBindings.Add("Text", _model, nameof(_model.Name), false, DataSourceUpdateMode.OnPropertyChanged);
-            lblName.DataBindings.Add("Text", _model, nameof(_model.Name), false, DataSourceUpdateMode.OnPropertyChanged);
+            lblOtherFunText.DataBindings.Add("Text", _model, nameof(_model.OtherFunText), false, DataSourceUpdateMode.OnPropertyChanged);
         }
     }
 }

@@ -44,7 +44,7 @@ namespace WinFormsBindingExample.Views
             // 
             this.tbName.Location = new System.Drawing.Point(103, 13);
             this.tbName.Name = "tbName";
-            this.tbName.Size = new System.Drawing.Size(131, 20);
+            this.tbName.Size = new System.Drawing.Size(186, 20);
             this.tbName.TabIndex = 0;
             // 
             // label1
@@ -67,11 +67,11 @@ namespace WinFormsBindingExample.Views
             // 
             // lblName
             // 
-            this.lblName.AutoSize = true;
+            this.lblName.AutoEllipsis = true;
             this.lblName.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.lblName.Location = new System.Drawing.Point(103, 51);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(51, 13);
+            this.lblName.Size = new System.Drawing.Size(186, 48);
             this.lblName.TabIndex = 3;
             this.lblName.Text = "Unbound";
             // 
@@ -84,7 +84,7 @@ namespace WinFormsBindingExample.Views
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tbName);
             this.Name = "ExampleView";
-            this.Size = new System.Drawing.Size(248, 82);
+            this.Size = new System.Drawing.Size(305, 114);
             this.ResumeLayout(false);
             this.PerformLayout();
 
